@@ -66,9 +66,8 @@ Design an **AI-powered resume matcher** that:
 ## 👩‍💻 Created By  
 **Niharika Mishra**  
 Aspiring Product Manager | Google & Microsoft Certified  
-[LinkedIn Profile](https://www.linkedin.com/in/your-profile) *(Add your real link here)*
-
+https://www.linkedin.com/in/niharika-mishra-aa721b374/
 ---
 
 ## 📎 Project File  
-👉 [Download Case Study PDF](./AI_Resume_Matcher_Case_Study_Niharika_Mishra.pdf)
+file:///C:/Users/nihar/Downloads/AI%20Resume%20Matcher%20%E2%80%93%20Case%20Study.pdf
