@@ -69,5 +69,5 @@ Aspiring Product Manager | Google & Microsoft Certified
 https://www.linkedin.com/in/niharika-mishra-aa721b374/
 ---
 
-## 📎 Project File  
-file:///C:/Users/nihar/Downloads/AI%20Resume%20Matcher%20%E2%80%93%20Case%20Study.pdf
+## 📎 Project File
+https://github.com/NiharikaMishra-web/ai-resume-matcher/blob/main/AI%20Resume%20Matcher%20%E2%80%93%20Case%20Study.pdf
